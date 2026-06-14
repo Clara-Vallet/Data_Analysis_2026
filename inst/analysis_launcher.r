@@ -83,6 +83,7 @@ source("src/4_PCA.R")
 # CAH identified 4 ecological clusters 
 # not logical that invasive niche is bigger because normally should be less generalist but can be explianed by the fact that
 # netive disappeared from some areas due to competition so less dispersed as more present in refuge (invasive won areas so bigger circle)
+# also two times more invasive
 # IMPORTANT: for further analysis, go to the script detailed
 # LIMITATION: climate variables from 2019 used becasue that what I downloaded but observation since 2022
 # I wanted to download 2022 but chelsea did not want to ... 

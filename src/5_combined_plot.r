@@ -53,7 +53,7 @@ legende_text <- ggplot() +
   geom_textbox(                                                                                   
     aes(x = 0.5, y = 0,
         label = "<b>Figure 1.</b> <i>Harmonia axyridis</i> influence in Switzerland on niche displacement of <i>Coccinella septempunctata</i>.
-A. Gbif and iNat ccurrence points of <i>H. axyridis</i> (n = 7499) and <i>C. septempunctata</i> (n = 2829) across Switzerland from 2001 to 2024. 
+A. Gbif and iNat ccurrence points of <i>H. axyridis</i> (n = 8263) and <i>C. septempunctata</i> (n = 4191) across Switzerland from 2001 to 2024. 
 B. Principal Component Analysis of ecological niche in 2019. Variables are Altitude, Tmax in 2019, summer NDVI and Precipitation in 2019. Ellipses represent 95% confidence intervals. Arrows indicate variable loadings.
 C. Temporal dynamics of altitudinal, thermal, vegetation and precipitation niches across 3-year periods (2001–2024). Tmax and Precipitation are 2019 data. Each ridge represents the kernel density distribution of one species per period. Wilcoxon test. ns= non significant. *** = p<0.001"),
     width     = unit(0.76, "npc"),                                                                # text box width
